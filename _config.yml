@@ -1,5 +1,5 @@
 name: KellerBot 2
-title: KellerBot 2
+title:
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 github:
