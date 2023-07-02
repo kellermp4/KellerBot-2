@@ -1,3 +1,3 @@
 # Commands
-## !hi
+### !hi
 Makes the bot say hi.
